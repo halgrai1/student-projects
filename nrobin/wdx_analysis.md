@@ -34,7 +34,8 @@ Year	GDP, per capita PPP	Infant mortality (per 1,000 live births)
 2019	23.04k	8.2  
 ~~~
  
-Figure 2. GDP effect on Infant Mortality Rate Columbia & Argentina. Adapted from “World Development Explorer”, by Dr. Chaojie Wang, 2021, retrieved from http://www.worlddev.xyz/   
+Figure 2. GDP effect on Infant Mortality Rate Columbia & Argentina. Adapted from “World Development Explorer”, by Dr. Chaojie Wang, 2021, retrieved from http://www.worlddev.xyz/ 
+
 Another financial statistic that has a significant impact on infant mortality is the amount of money spent on healthcare. The relationship is similar to the GDP chart, in that the more money that is spent on healthcare, the lower the infant mortality rate. The chart below shows that there is a significant impact on infant mortality when over $2,200 per capita, PPP is spent on healthcare in a negative non-linear format. 
 
 The trend continues over time for a single country, as well. The grid and images below track Colombia from 2010 – 2018. As Columbia’s health expenditure increased between 2010 and 2018, its infant mortality rate decreased. From 2010 to 2014 the health expenditure increased by almost 29 percent and the infant mortality rate decreased by approximately 12 percent. In 2018 the health expenditure increased by approximately 18 percent and its infant mortality rate (IMR) decreased by over 12 percent. Colombia’s health expenditure to IMR ratio is approximately $99 to 1 based on these numbers, which equates to each increase in health expenditure per capita of $99 decreases the rate of death by 1 per 1000 births.
