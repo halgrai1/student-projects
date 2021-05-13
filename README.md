@@ -1,2 +1,2 @@
-- [Can Money Buy Happiness?](tmarissa/wdx_analysis.md)
-- [Women's Interconnected Role in Health, Social Development, and the Economy](ahala/wdx_analysis.md)
+- [Can Money Buy Happiness? (Marissa Tan)](tmarissa/wdx_analysis.md)
+- [Women's Interconnected Role in Health, Social Development, and the Economy (Hala Algrain](ahala/wdx_analysis.md)
