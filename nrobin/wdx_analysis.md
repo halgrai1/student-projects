@@ -1,6 +1,6 @@
 # Wealth and Education: Two keys to reducing the infant mortality rate in South America
 
-> *Robin Nethery*  
+> Robin Nethery  
 > Healthcare Informatics Master rogram  
 > Harrisburg University
 
