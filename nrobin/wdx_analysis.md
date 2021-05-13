@@ -1,8 +1,8 @@
 # Wealth and Education: Two keys to reducing the infant mortality rate in South America
 
-> *Robin Nethery  
+> *Robin Nethery*  
 > Healthcare Informatics Master rogram  
-> Harrisburg University*
+> Harrisburg University
 
 There are many factors that influence a country’s infant mortality rate (IMR) and create large differences between neighboring countries. There are economic factors like the country of origin’s gross domestic product per capita measurement, which represents the wealth of a country normalized by the number of citizens that live in the country. In a 2013 study it was shown that “the contribution of real GDP to health spending is significant and positive. The panel Granger causality tests imply that a bi-directional causality exists between health spending and GDP” (Kumar, 2013).
 
