@@ -1,21 +1,32 @@
 # Wealth and Education: Two keys to reducing the infant mortality rate in South America
 
+> Robin Nethery
+> Healthcare Informatics Master rogram
+> Harrisburg University
+
 There are many factors that influence a country’s infant mortality rate (IMR) and create large differences between neighboring countries. There are economic factors like the country of origin’s gross domestic product per capita measurement, which represents the wealth of a country normalized by the number of citizens that live in the country. In a 2013 study it was shown that “the contribution of real GDP to health spending is significant and positive. The panel Granger causality tests imply that a bi-directional causality exists between health spending and GDP” (Kumar, 2013).
+
 Healthcare issues like the amount of money spent on health care services is another area that has an influence on infant mortality rates. The amount of money spent on health care services can be normalized by the amount of money spent per capita, which helps gain a measure of the amount spent per citizen. A 2021 study showed that “health expenditure increase reduces IMR and MMR for all economies under-study, countries at the verge of beginning their mid-income status or developing nations will benefit more in reducing death rate than countries categorised as least developed and developed economies” (Owusu PA, 2021).
+
 Education is another measure that has an influence on infant mortality, particularly when infant mortality is measured based on the amount of education female citizens complete. Tertiary education completion has a vary strong correlation with decreased infant mortality. A 2013 study showed that infant “mortality declines significantly (by a factor of 0.40-0.96) through the direct effect of education” (Gage TB, 2013).
+
 Let us look at gross domestic product per capita measurement. As mentioned before, it is the measure of a country’s wealth by dividing a country’s GDP by the number of citizens the country has. This helps to normalize the value so that when comparing countries with smaller populations, and likely GDP, the numbers are not skewed. The GDP calculations also utilize the PPP adjustment. “GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States” (Wang, 2021).
  
 When looking at the World Bank Data for all countries the trend is pronounced and makes logical sense. The wealthier a country is, the fewer incidents of infant mortality there are in that country. As the data points move from the left to the right (indication of more wealth) they also trend from the top of the grid to the bottom (less infant mortality). The relationship is so strong that there are no low GDP countries that have similar infant mortality rate when compared to wealthy countries. Looking at the values below, there looks to be a spot where infant mortality is significantly reduced, near the $20,000 per capita mark and even more so at the $40,000 mark. 
  
 Figure 1. GDP effect on Infant Mortality Rate. Adapted from “World Development Explorer”, by Dr. Chaojie Wang, 2021, retrieved from http://www.worlddev.xyz/ 
-	The trend continues over time for a single country, as well. The grid and images below track Colombia from 2010 – 2019. As Columbia’s GDP increased between 2010 and 2019, its infant mortality rate decreased. From 2010 to 2015 the GDP increased by almost 24 percent and the infant mortality rate decreased by over 15 percent. In 2019 the GDP increased by almost 21 percent and its infant mortality rate (IMR) decreased by almost 12 percent. Colombia’s GDP to IMR ratio is approximately 1.3k to 1 based on these numbers, which equates to each increase in GDP per capita of 1.3k decreases the rate of death by 1 per 1000 births.
+
+The trend continues over time for a single country, as well. The grid and images below track Colombia from 2010 – 2019. As Columbia’s GDP increased between 2010 and 2019, its infant mortality rate decreased. From 2010 to 2015 the GDP increased by almost 24 percent and the infant mortality rate decreased by over 15 percent. In 2019 the GDP increased by almost 21 percent and its infant mortality rate (IMR) decreased by almost 12 percent. Colombia’s GDP to IMR ratio is approximately 1.3k to 1 based on these numbers, which equates to each increase in GDP per capita of 1.3k decreases the rate of death by 1 per 1000 births.
+
 ~~~
 Year	GDP, per capita PPP	Infant mortality (per 1,000 live births)
 2010	10.73k	15.8    
 2015	13.27k 	13.4  
 2019	16.01k	11.8  
 ~~~
+
 The grid and images below track Argentina from 2010 – 2019. As Argentina’s GDP increased between 2010 and 2019, its infant mortality rate decreased. From 2010 to 2015 the GDP increased by over 11 percent and the infant mortality rate decreased approximately 21 percent. In 2019 the GDP increased by almost 14.5 percent and its infant mortality rate (IMR) decreased by approximately 19.6 percent. Argentina’s GDP to IMR ratio is approximately 1.06k to 1 based on these numbers, which equates to each increase in GDP per capita of 1.6k decreases the rate of death by 1 per 1000 births.
+
 ~~~
 Year	GDP, per capita PPP	Infant mortality (per 1,000 live births)  
 2010	18.06k	12.9  
@@ -68,6 +79,7 @@ The final measurement that we will review is the effect of the percentage of fem
 Narrowing the regions down to Latin America & Caribbean and Middle East and North Africa shows a similar trend, though less pronounced. As the percentage of female population with college degrees increases, the infant mortality rate decreases. The strength of the correlation seems to swap in this chart with Latin America & Caribbean having a stronger correlation between infant mortality rate and percentage of female population of 25 with completed tertiary education than Middle East and North Africa does. 
   
 Looking at the measurements above, we can conclude that there is a strong correlation between the wealth of a nation and the rate of infant mortality. As a country’s GDP increases, health spending tends to increase, which trends towards a lower infant mortality rate. In another 2013 study it was found that “If the IMR is 50/1000 and the GDP increases by 10%, we can expect the IMR to decrease to 45/1000” (O'Hare B, 2013).
+
 The World Bank Data also shows that education of female citizens is another area that demonstrates a strong correlation with the country’s infant mortality rate. The greater number of years of education a woman has, the lower the infant mortality rate of the country. The correlation between tertiary education completion and the reduction in infant mortality rate is particularly strong. A 2017 study of South American countries showed that this relationship was based on “the positive association between maternal education and use of prenatal services and technology” (Wehby, 2017).
  
 References
