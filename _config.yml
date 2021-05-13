@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title:  Student Projects
+description: The World Development Explorer (www.worlddev.xyz) 
+logo: "wdx-logo.jpg"
+github:
+  is_project_page: false
