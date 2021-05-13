@@ -136,10 +136,10 @@ School Life Expectancy (female) and Unemployment (male)
 * Unfortunately, Pakistan and Mali's data were not available for 2010 and 2018, respectively. I tried various labor indicators, but Pakistan was missing from many of them.
 
 
-##Summary
+## Summary
 Overall, this preliminary analysis shows the interconnectedness of a country's economic robustness, the rights it provides women, and some of its health outcomes. Unfortunately, there are no major insights from this initial view of the data. In fact, I produced data that contradicted the studies cited in the journal. In Chart 5, as the *Women's Business & Law Index Score* increased male suicide rates increase (2016).
 
-####Chart 5
+#### Chart 5
 ![](https://i.imgur.com/gL6EMfb.png)
 
 I beleive this is a good demonstration that these correlations require more rigorous analysis. There are more factors at play that I need to consider that a simplistic analysis cannot clarify. In a sense, this analysis clarifies that clarification and focus is needed!
