@@ -1,4 +1,4 @@
-# Does GDP and Education Affect Renewable Energy Consumption? 
+# Do GDP and Education Affect Renewable Energy Consumption? 
 > Sooyeon Choi  
 > Data Science Master Programs  
 > UMBC
