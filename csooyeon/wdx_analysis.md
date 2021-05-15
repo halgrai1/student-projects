@@ -13,11 +13,8 @@ Science and technology are advancing every day. Due to the inventions and improv
 - **Countries Compared**: United States, Brazil, China, United Kingdom, New Zealand, India, Costa Rica, Mexico, Kenya. 
 - **Timeline**: 2010 - 2015
 - **Topics & Indicators**: 
-    - **Education** - *Barro-Lee Average years of total schooling, age 15+ total*: 
-
-Average years of primary schooling, 15+, total is the
+    - **Education** - *Barro-Lee Average years of total schooling, age 15+ total*: Average years of primary schooling, 15+, total is the
 average years of primary education completed among people over age 15.)
-
     - **Climate Change** - *Renewable Energy Consumption (% of total final energy consumption)*: Average years of primary schooling, 15+, 
 total is the average years of primary education completed among people over age 15.
     - **Environment** - *Land Area (sq.km)*: a country's total area, excluding area under inland water bodies, national claims to 
