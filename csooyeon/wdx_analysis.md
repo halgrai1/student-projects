@@ -32,7 +32,7 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ~~~
 
-## **1. How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size**
+## 1. How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size
 
 ### GDP per capita by year in different countries
 ![GDP_Year](https://user-images.githubusercontent.com/70929605/112779024-d5c26f80-9013-11eb-814c-c3f527439c78.png)
@@ -43,7 +43,7 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 ### The size of the bubble shows how large the country is
 ![bubble](https://user-images.githubusercontent.com/70929605/112779769-736a6e80-9015-11eb-9c0d-1b39256b2ca4.png)
 
-## Basic GDP and Land Area Information
+### Basic GDP and Land Area Information
 ![GDP](https://user-images.githubusercontent.com/70929605/112779027-d65b0600-9013-11eb-9584-06dd3e8e9680.png)
 ![Land area](https://user-images.githubusercontent.com/70929605/112778644-f8a05400-9012-11eb-85f4-79cd21ba8208.png)
 
@@ -59,7 +59,7 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 
 
-## **2. How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size**
+## 2. How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size
 ![REC_school](https://user-images.githubusercontent.com/70929605/112778745-27b6c580-9013-11eb-9d0e-6e44788f4007.png)
 
 **Average Years of total schooling age15+ per Country**
@@ -71,7 +71,7 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 * The scatter plot some-what shows that the more education, less of renewable energy consumption and less education, more renewable energy consumption. 
 
-### Conclusion
+## 3. Conclusion
 
 It is hard to determine everything just by the indicators and countries compared in the article. We cannot say for 100% that one indicator is a definite factor for renewable energy consumption rate. However, we were able to find out that 
 * The land area (size) does not have high correlating factor to renewable energy consumption rate.
