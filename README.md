@@ -1,3 +1,3 @@
 - [Can Money Buy Happiness? (Marissa Tan)](tmarissa/wdx_analysis.md)
 - [Women's Interconnected Role in Health, Social Development, and the Economy (Hala Algrain)](ahala/wdx_analysis.md)
-- [Does GDP and Education Affect Renewable Energy Consumption? (Sooyeon Choi](csooyeon/wdx_analysis.md)
+- [Does GDP and Education Affect Renewable Energy Consumption? (Sooyeon Choi)](csooyeon/wdx_analysis.md)
