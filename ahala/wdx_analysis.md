@@ -1,7 +1,7 @@
 # Women's Interconnected Role in Health, Social Development, and the Economy
 
 > Hala Algrain  
-> Data Science Master Program  
+> Data Science Master Programs  
 > UMBC  
 
 *Topic Keywords: Gender, Health, Economy and Growth, Social Developlment, Education*
