@@ -1,8 +1,8 @@
 # **Can Money Buy Happiness?**
 
->*Marissa Tan*  
->*Data Science Master Program*   
->*UMBC*
+> Marissa Tan  
+> Data Science Master Programs   
+> UMBC
 
 "Can money buy happiness?" is a popular quote often heard when a rich person isn't able to attain what will make him or her happy. However, does that same quote resonate with countries as a whole? Will a richer country have happier citizens? After all, many people want to immigrate to rich nations to enjoy an improved standard of living.<br><br>
 In this study, the data collected centers on GDP (Gross Domestic Product) per capita, total population, and suicide mortality rate.   GDPs are normally calculated by using the country’s domestic currency, but when it comes to comparisons, the standard currency is the US$. For short, GDP measures everything produced within a country’s borders. A high GDP meant high standard of living.  GDP per capita is a country’s economic output per person. The suicide mortality rate is measured by the number of suicide deaths in a year per 100,000 population. This study is in comparison with the total population.<br><br>
