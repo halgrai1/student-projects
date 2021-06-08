@@ -70,7 +70,7 @@ Women's Business & Law Index Score over Time
 
 **Chart Type:** Bar Chart
 
-![Women's Business and Law Index Score 2014](https://i.imgur.com/cVkBun3.png "Women's Business and Law Index Score 2014")
+![Women's Business and Law Index Score 2014](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/0_Womens_Business_Law_IndexScore_2014.png?raw=true "Women's Business and Law Index Score 2014")
 
 **Chart Interpretation**
 
@@ -88,9 +88,9 @@ Infant Mortality Rate (per 1,000 live births), Female Secondary Education Enroll
 
 **Chart Type:** Bubble Chart
 
-![Relationship between Women's Higher Education and Infant Mortality in 2010](https://i.imgur.com/Xeh3510.png "Relationship between Women's Higher Education and Infant Mortality in 2010")
+![Relationship between Women's Higher Education and Infant Mortality in 2010](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/1_infantmortality_femaleschool_GDP_2010.png?raw=true "Relationship between Women's Higher Education and Infant Mortality in 2010")
 
-![Relationship between Women's Higher Education and Infant Mortality in 2018](https://i.imgur.com/Sdcxbb9.png "Relationship between Women's Higher Education and Infant Mortality in 2010")
+![Relationship between Women's Higher Education and Infant Mortality in 2018](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/1_infantmortality_femaleschool_GDP_2018.png?raw=true "Relationship between Women's Higher Education and Infant Mortality in 2010")
 
 **Chart Interpretation**
 
@@ -107,7 +107,7 @@ School Life Expectancy Over Time
 
 **Chart Type:** Line Chart
 
-![School Life Expectancy](https://i.imgur.com/4uz9YVI.png "School Life Expectancy")
+![School Life Expectancy](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/2_school_life_expectancy.png?raw=true "School Life Expectancy")
 **Chart Interpretation**
 
 * The school life expectancy of wealthier nations ranged from 15 to 20. They all gradually increased over the 8 years.
@@ -125,9 +125,9 @@ School Life Expectancy (female) and Unemployment (male)
 
 **Chart Type:** Scatter plot
 
-![Male Unemployment and Female School Life Expectancy 2010](https://i.imgur.com/iuHV9sB.png "Male Unemployment and Female School Life Expectancy 2010")
+![Male Unemployment and Female School Life Expectancy 2010](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/3_male_unemploy_school_expect_2010.png?raw=true "Male Unemployment and Female School Life Expectancy 2010")
 
-![Male Unemployment and Female School Life Expectancy 2018](https://i.imgur.com/c63jg1S.png "Male Unemployment and Female School Life Expectancy 2018")
+![Male Unemployment and Female School Life Expectancy 2018](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/3_male_unemploy_school_expect_2018.png?raw=true "Male Unemployment and Female School Life Expectancy 2018")
 
 **Chart Interpretation**
 
@@ -140,7 +140,7 @@ School Life Expectancy (female) and Unemployment (male)
 Overall, this preliminary analysis shows the interconnectedness of a country's economic robustness, the rights it provides women, and some of its health outcomes. Unfortunately, there are no major insights from this initial view of the data. In fact, I produced data that contradicted the studies cited in the journal. In Chart 5, as the *Women's Business & Law Index Score* increased male suicide rates increase (2016).
 
 #### Chart 5
-![](https://i.imgur.com/gL6EMfb.png)
+![](https://github.com/worlddevx/student-projects/blob/main/ahala/charts/5_suicide_women_index_2016.png?raw=true)
 
 I beleive this is a good demonstration that these correlations require more rigorous analysis. There are more factors at play that I need to consider that a simplistic analysis cannot clarify. In a sense, this analysis clarifies that clarification and focus is needed!
 
